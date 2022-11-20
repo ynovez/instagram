@@ -1,0 +1,8 @@
+.card-container {
+  margin: auto;
+  border: 1px solid #BBD3FE;
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow:  5px 5px 8px #385180, -1px -1px 1px #97AACC;
+  width: 85%;
+}
