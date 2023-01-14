@@ -7,7 +7,3 @@ html {
 body {
   background-image: linear-gradient(to right top, #275257, #007b72, #00a473, #46ca59, #a8eb12);
 }
-
-
-@media screen and (max-width: 480px) {
-}
