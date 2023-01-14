@@ -1,20 +1,22 @@
 [
   {
-    "href": "https://github.com/aloiziobsc",
-    "src": "",
-    "alt": "GitHub logo",
-    "text": "GitHub"
+    "href": "https://www.ynovez.com.br/",
+    "text": "Site",
+    "show" : false
   },
   {
-    "href": "https://www.linkedin.com/in/aloiziobsc/",
-    "src": "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white",
-    "alt": "LinkedIn logo",
-    "text": "LinkedIn"
+    "href": "https://api.whatsapp.com/send?phone=5534984235882&text=Olá!",
+    "text": "WhatsApp",
+    "show" : true
   },
   {
-    "href": "https://api.whatsapp.com/send?phone=5534998068186&text=Hi%20there!",
-    "src": "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white",
-    "alt": "WhatsApp logo",
-    "text": "WhatsApp"
+    "href": "https://goo.gl/maps/hQF2dqspow45zP4u9",
+    "text": "Localização",
+    "show" : true
+  },
+  {
+    "href": "https://www.instagram.com/ynovezpatos/",
+    "text": "Instagram",
+    "show" : true
   }
 ]

@@ -1,10 +1,12 @@
-import libraryPhoto from './libraryPhoto.jpeg';
+import ynovezVerde from './img/YnovezVerde.png';
 import './ImgContainer.css';
+import Spacer from '../Spacer/Spacer';
 
 const ImgContainer = () => {
   return (
     <>
-      <img src={libraryPhoto} className="Library-Photo" alt="libraryPhoto" />
+      <Spacer height={20}/>
+      <img src={ynovezVerde} className="Logo-Photo" alt="logo" />
     </>
   );
 }
